@@ -1,0 +1,1 @@
+1- Cambiar tipo de datos Age en la interface characters de string a number.
